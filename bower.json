@@ -1,0 +1,17 @@
+{
+  "name": "jsgettext",
+  "description": "Javascript Gettext - Javascript implemenation of GNU Gettext API.",
+  "main": "lib/Gettext.js",
+  "authors": [
+    "Joshua I. Miller <unrtst@cpan.org>"
+  ],
+  "license": "LGPL",
+  "homepage": "https://github.com/adrienrn/jsgettext",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
