@@ -76,6 +76,7 @@ MyNamespace.MyClass.prototype._ = function (msgid) {
 MyNamespace.MyClass.prototype.something = function () {
     var myString = this._("this will get translated");
 };
+```
 
 Adding the shortcuts to a global scope is easier. If that is ok in your app, this is certainly easier.
 
